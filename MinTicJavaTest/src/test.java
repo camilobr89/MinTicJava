@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class test {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-
+        /*
         int i, n;
 
         double guerra, nomina, pensiones, salario_minimo, salud;
@@ -51,5 +51,20 @@ public class test {
                 System.out.println();
             }
         }
+
+        String txt1 = "It's alright ";
+        String txt2 = "That's great";
+        System.out.println(txt1.concat(txt2));
+
+
+        String txt = "abcdefghijklmnopqrstuvwxyz";
+        System.out.println("The lenght is: ".concat(Integer.toString(txt.length())));
+
+         */
+
+        String x = "10";
+        int y = 20;
+        String z = x + y;
+        System.out.println(z);
     }
 }
