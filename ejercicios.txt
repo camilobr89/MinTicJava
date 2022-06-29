@@ -1,0 +1,11 @@
+se le solicita elaborar un programa en java que pida todas las notas del ciclo 1 en python, r1, r2, r3, r4, r5, nota ingles, nota de habilidades
+y calcule la definitiva para 5 tripulantes, posteriormente debe sacar la nota promedio de los 5 tripulantes
+reto1 10%, r2 10%, r3 20%, r4 20%, r4 20%, habilidades 10%, ingles 10%
+
+metodo que haga captura,
+
+metodo que haga calculos,
+
+metodo que imprima, direccionados desde public void main
+
+con vectores o arrays
