@@ -9,3 +9,17 @@ metodo que haga calculos,
 metodo que imprima, direccionados desde public void main
 
 con vectores o arrays
+
+
+// Se les solicita elaborar un programa en java que utilize 3 metodos y calcule la definitiva por estudiante 
+adicionalmente en un metodo diferente debe realizar los calculos de esa definitiva y del promedio del grupo 
+como ultima indicacion el gerente general solicita que se realice tres estadisticas para una premiacion:
+estadistica 1 calcular la cuarta parte del promedio r1 r2 +10puntos
+estadistica 2 sacarle el 30% a los retos 4 y 5 y dividir entre 5 
+estadistica 3 se debe calcular 4 veces la nota 3 menos el 40% de la nota 5
+de tal manera que al finalizar el programa se imprima el promedio, el valor de la estadistica 1 el de la 2 
+el de la 3, en la misma linea separada por espacios en blanco
+y en la parte de abajo el nombre de la estadistica mas alta 
+
+
+  

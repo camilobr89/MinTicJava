@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MinTicJava.iml" filepath="$PROJECT_DIR$/.idea/MinTicJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinTicJavaTest/MinTicJavaTest.iml" filepath="$PROJECT_DIR$/MinTicJavaTest/MinTicJavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyectos/promedioNotas/promedioNotas.iml" filepath="$PROJECT_DIR$/Proyectos/promedioNotas/promedioNotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyectos/untitled/untitled.iml" filepath="$PROJECT_DIR$/Proyectos/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

@@ -48,7 +48,7 @@ public class Notas {
         notaFinalAlumnos = (notaFinalAlumno1 + notaFinalAlumno2 + notaFinalAlumno3 + notaFinalAlumno4 + notaFinalAlumno5) / 5;
         System.out.printf("La nota final del alumno 1 es: %.2f\n", notaFinalAlumno1);
         System.out.printf("La nota final del alumno 2 es: %.2f\n", notaFinalAlumno2);
-        System.out.printf("La nota final del alumno 3 es: %.2f\n", notaFinalAlumno3);
+        System.out.printf("La nota final del a  lumno 3 es: %.2f\n", notaFinalAlumno3);
         System.out.printf("La nota final del alumno 4 es: %.2f\n", notaFinalAlumno4);
         System.out.printf("La nota final del alumno 5 es: %.2f\n", notaFinalAlumno5);
         System.out.println("La nota final de los 5 estudiantes es: " + notaFinalAlumnos);
